@@ -28,6 +28,10 @@
     <p>
     You can open an issue up on the <a href="//github.com/jsbratislava/culture">JSBA Culture GH Repository</a>, or contact Matei Copot in any way you can find, but preferribly through <a href="mailto:matei@copot.eu">email: matei@copot.eu</a> or <a href="//twitter.com/MateiCopot">twitter: @MateiCopot</a>
     </p>
+    <h2>Attribution</h2>
+    <p>
+      This CoC was blatantly copy-pasted from <a href="//jsoxford.com/codeofconduct/">JSOxford's CoC</a>, thanks everyone over there!
+    </p>
   </div>
 </template>
 <script>
